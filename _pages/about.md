@@ -1,10 +1,13 @@
 ---
+
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+
+* /about/
+* /about.html
+
 ---
 
 # Welcome
@@ -40,5 +43,4 @@ This website is used to organize my academic profile, research notes, projects, 
 
 Email: [xihao.yang021112@gmail.com](mailto:xihao.yang021112@gmail.com)
 
-GitHub: @xihao.yang021112
-
+GitHub: [@xihao-yang](https://github.com/xihao-yang)
